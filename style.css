@@ -481,6 +481,9 @@ footer .content {
 .linkk ul li a {
     color: white;
 }
+.photos {
+    padding-bottom: 40px;
+}
 @media(max-width:1200px) {
     .contact {
         width: 100%;
